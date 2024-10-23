@@ -1,4 +1,3 @@
-# C-LANGUAGE-PROGRAM-
 //prime number 
 #include<stdio.h>
 #include<conio.h>
